@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.NOVO_SEO.AllPage.Unient_BlogPageTest">
+        <methods>
+          <include name="Unient_BlogSevenReasonWhyMetaDescriptionVelidation"/>
+          <include name="Unient_BlogTrustAndPerformancePageMetaDescriptionVelidation"/>
+          <include name="Unient_BlogPageMetaDescriptionVelidation"/>
+          <include name="Unient_BlogUnientUnveilingPageMetaDescriptionVelidation"/>
+          <include name="Unient_BlogPageTitleVelidation"/>
+          <include name="driverquit"/>
+          <include name="Unient_BlogEmployerOfRecordMetaDescriptionVelidation"/>
+          <include name="getDriver"/>
+        </methods>
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_BlogPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

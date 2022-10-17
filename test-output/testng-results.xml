@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="19" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T07:18:41 IST" name="NOVO_SEO_Regression" finished-at="2022-10-14T07:23:27 IST" duration-ms="285917">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T07:18:41 IST" name="NOVO_SEO_Regression" finished-at="2022-10-14T07:23:27 IST" duration-ms="285917">
+      <class name="com.NOVO_SEO.AllPage.Unient_AboutUsPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:18:41 IST" name="getDriver" finished-at="2022-10-14T07:18:47 IST" duration-ms="5905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_AboutUsPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:18:47 IST" name="Unient_AboutUsPageTitleVelidation" finished-at="2022-10-14T07:18:59 IST" duration-ms="12368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_AboutUsPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:18:59 IST" name="driverquit" finished-at="2022-10-14T07:19:00 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:19:00 IST" name="getDriver" finished-at="2022-10-14T07:19:03 IST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_AboutUsPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:19:03 IST" name="Unient_AboutUsPageMetaDescriptionVelidation" finished-at="2022-10-14T07:19:14 IST" duration-ms="11058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_AboutUsPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_AboutUsPageTest@3c7f66c4]" started-at="2022-10-14T07:19:14 IST" name="driverquit" finished-at="2022-10-14T07:19:14 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_AboutUsPageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_InfotechPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:22 IST" name="getDriver" finished-at="2022-10-14T07:22:26 IST" duration-ms="3146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_InfotechPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:26 IST" name="Unient_InfotechPageTitleVelidation" finished-at="2022-10-14T07:22:37 IST" duration-ms="11094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_InfotechPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:37 IST" name="driverquit" finished-at="2022-10-14T07:22:37 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:37 IST" name="getDriver" finished-at="2022-10-14T07:22:40 IST" duration-ms="3054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_InfotechPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:40 IST" name="Unient_InfotechPageMetaDescriptionVelidation" finished-at="2022-10-14T07:22:51 IST" duration-ms="11471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_InfotechPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_InfotechPageTest@576d5deb]" started-at="2022-10-14T07:22:51 IST" name="driverquit" finished-at="2022-10-14T07:22:52 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_InfotechPageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_CreativesPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:21:38 IST" name="getDriver" finished-at="2022-10-14T07:21:41 IST" duration-ms="3162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_CreativesPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:21:41 IST" name="Unient_CreativesPageTitleVelidation" finished-at="2022-10-14T07:21:52 IST" duration-ms="11091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_CreativesPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:21:52 IST" name="driverquit" finished-at="2022-10-14T07:21:52 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:21:52 IST" name="getDriver" finished-at="2022-10-14T07:21:55 IST" duration-ms="3213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_CreativesPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:21:55 IST" name="Unient_CreativesPageMetaDescriptionVelidation" finished-at="2022-10-14T07:22:06 IST" duration-ms="10929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_CreativesPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_CreativesPageTest@130c12b7]" started-at="2022-10-14T07:22:06 IST" name="driverquit" finished-at="2022-10-14T07:22:06 IST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_CreativesPageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_HomePageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:06 IST" name="getDriver" finished-at="2022-10-14T07:22:10 IST" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_HomePageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:10 IST" name="Unient_HomePageTitleVelidation" finished-at="2022-10-14T07:22:14 IST" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_HomePageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:14 IST" name="driverquit" finished-at="2022-10-14T07:22:14 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:14 IST" name="getDriver" finished-at="2022-10-14T07:22:18 IST" duration-ms="3111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_HomePageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:18 IST" name="Unient_HomePageMetaDescriptionVelidation" finished-at="2022-10-14T07:22:22 IST" duration-ms="4616" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Empower your organisation to function onshore & offshore as one enterprise with Unient's versatile range of services & regional service delivery capabilities.] but found [Empower your organisation to function onshore & offshore as one enterprise with Unient`s versatile range of services & regional service delivery capabilities.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Empower your organisation to function onshore & offshore as one enterprise with Unient's versatile range of services & regional service delivery capabilities.] but found [Empower your organisation to function onshore & offshore as one enterprise with Unient`s versatile range of services & regional service delivery capabilities.]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.NOVO_SEO.FunctionLibrary.Unient_HomePage.homePageMetaDescription(Unient_HomePage.java:49)
+at com.NOVO_SEO.AllPage.Unient_HomePageTest.Unient_HomePageMetaDescriptionVelidation(Unient_HomePageTest.java:28)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_HomePageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_HomePageTest@5e600dd5]" started-at="2022-10-14T07:22:22 IST" name="driverquit" finished-at="2022-10-14T07:22:22 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_HomePageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_BlogPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:14 IST" name="getDriver" finished-at="2022-10-14T07:19:18 IST" duration-ms="3643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:18 IST" name="Unient_BlogPageTitleVelidation" finished-at="2022-10-14T07:19:29 IST" duration-ms="11086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:29 IST" name="driverquit" finished-at="2022-10-14T07:19:29 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:29 IST" name="getDriver" finished-at="2022-10-14T07:19:32 IST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:32 IST" name="Unient_BlogPageMetaDescriptionVelidation" finished-at="2022-10-14T07:19:43 IST" duration-ms="11229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:43 IST" name="driverquit" finished-at="2022-10-14T07:19:44 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:44 IST" name="getDriver" finished-at="2022-10-14T07:19:47 IST" duration-ms="3330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogUnientUnveilingPageMetaDescriptionVelidation()[pri:2, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:19:47 IST" name="Unient_BlogUnientUnveilingPageMetaDescriptionVelidation" finished-at="2022-10-14T07:20:04 IST" duration-ms="17493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogUnientUnveilingPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:04 IST" name="driverquit" finished-at="2022-10-14T07:20:05 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:05 IST" name="getDriver" finished-at="2022-10-14T07:20:08 IST" duration-ms="3210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogTrustAndPerformancePageMetaDescriptionVelidation()[pri:3, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:08 IST" name="Unient_BlogTrustAndPerformancePageMetaDescriptionVelidation" finished-at="2022-10-14T07:20:26 IST" duration-ms="17850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogTrustAndPerformancePageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:26 IST" name="driverquit" finished-at="2022-10-14T07:20:26 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:26 IST" name="getDriver" finished-at="2022-10-14T07:20:29 IST" duration-ms="3022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogEmployerOfRecordMetaDescriptionVelidation()[pri:4, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:29 IST" name="Unient_BlogEmployerOfRecordMetaDescriptionVelidation" finished-at="2022-10-14T07:20:46 IST" duration-ms="17567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogEmployerOfRecordMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:46 IST" name="driverquit" finished-at="2022-10-14T07:20:47 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:47 IST" name="getDriver" finished-at="2022-10-14T07:20:50 IST" duration-ms="3071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BlogSevenReasonWhyMetaDescriptionVelidation()[pri:5, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:20:50 IST" name="Unient_BlogSevenReasonWhyMetaDescriptionVelidation" finished-at="2022-10-14T07:21:06 IST" duration-ms="16244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BlogSevenReasonWhyMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BlogPageTest@60bd273d]" started-at="2022-10-14T07:21:06 IST" name="driverquit" finished-at="2022-10-14T07:21:06 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_BlogPageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:52 IST" name="getDriver" finished-at="2022-10-14T07:22:54 IST" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_TestAndPerformancePageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:54 IST" name="Unient_TestAndPerformancePageTitleVelidation" finished-at="2022-10-14T07:22:55 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_TestAndPerformancePageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:55 IST" name="driverquit" finished-at="2022-10-14T07:22:55 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:55 IST" name="getDriver" finished-at="2022-10-14T07:22:58 IST" duration-ms="3243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_EoRPageTitleVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:58 IST" name="Unient_EoRPageTitleVelidation" finished-at="2022-10-14T07:22:59 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_EoRPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters@5d534f5d]" started-at="2022-10-14T07:22:59 IST" name="driverquit" finished-at="2022-10-14T07:22:59 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_PageTitleWith65Characters -->
+      <class name="com.NOVO_SEO.AllPage.Unient_BPOPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:06 IST" name="getDriver" finished-at="2022-10-14T07:21:10 IST" duration-ms="3641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BPOPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:10 IST" name="Unient_BPOPageTitleVelidation" finished-at="2022-10-14T07:21:22 IST" duration-ms="12656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BPOPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:22 IST" name="driverquit" finished-at="2022-10-14T07:21:23 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:23 IST" name="getDriver" finished-at="2022-10-14T07:21:26 IST" duration-ms="3122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_BPOPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:26 IST" name="Unient_BPOPageMetaDescriptionVelidation" finished-at="2022-10-14T07:21:37 IST" duration-ms="11587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_BPOPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_BPOPageTest@121314f7]" started-at="2022-10-14T07:21:37 IST" name="driverquit" finished-at="2022-10-14T07:21:38 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_BPOPageTest -->
+      <class name="com.NOVO_SEO.AllPage.Unient_TeamsPageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:22:59 IST" name="getDriver" finished-at="2022-10-14T07:23:03 IST" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_TeamsPageTitleVelidation()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:23:03 IST" name="Unient_TeamsPageTitleVelidation" finished-at="2022-10-14T07:23:13 IST" duration-ms="10354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_TeamsPageTitleVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:23:13 IST" name="driverquit" finished-at="2022-10-14T07:23:13 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:23:13 IST" name="getDriver" finished-at="2022-10-14T07:23:16 IST" duration-ms="2939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Unient_TeamsPageMetaDescriptionVelidation()[pri:1, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:23:16 IST" name="Unient_TeamsPageMetaDescriptionVelidation" finished-at="2022-10-14T07:23:27 IST" duration-ms="10956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unient_TeamsPageMetaDescriptionVelidation -->
+        <test-method is-config="true" signature="driverquit()[pri:0, instance:com.NOVO_SEO.AllPage.Unient_TeamsPageTest@2e3967ea]" started-at="2022-10-14T07:23:27 IST" name="driverquit" finished-at="2022-10-14T07:23:27 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverquit -->
+      </class> <!-- com.NOVO_SEO.AllPage.Unient_TeamsPageTest -->
+    </test> <!-- NOVO_SEO_Regression -->
+  </suite> <!-- NOVO_SEO_Regression -->
+</testng-results>
