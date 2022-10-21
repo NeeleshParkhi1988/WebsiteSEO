@@ -19,12 +19,4 @@ public class Unient_HomePageTest extends DriverManagerWeb{
 		lp.homePageTitle();
 	}
 	
-	@Test(priority=1)
-	public void Unient_HomePageMetaDescriptionVelidation() throws InterruptedException
-	{
-		lp = new Unient_HomePage(driver);
-		lp.testName="homePageTitleVelidation";
-		lp.title="homePageTitle";
-		lp.homePageMetaDescription();
-	}
 }
