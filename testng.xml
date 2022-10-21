@@ -5,13 +5,13 @@
 <listener class-name="com.NOVO_SEO.Listeners.Log"/>
 </listeners>
   <test name="">
-    <classes>
-      <class name=""/>
-    </classes>
-  </test> <!-- Test -->
-   <test name="">
-    <classes>
-      <class name=""/>
-    </classes>
+     <packages>
+     <package name = "com.NOVO_SEO.AllPage"/>
+     <package name = ""/>
+     <package name=""/>
+     <package name=""/>
+     <package name=""/>
+     <package name=""/>
+   </packages>
   </test>
 </suite> <!-- Suite -->
