@@ -4,14 +4,17 @@
 <listeners>
 <listener class-name="com.NOVO_SEO.Listeners.Log"/>
 </listeners>
-  <test name="">
-     <packages>
+  <test name="test">
+  <classes>
+ <class name="com.NOVO_SEO.AllPage.Unient_TeamsPageTest"/>
+</classes>
+    <!-- <packages>
      <package name = "com.NOVO_SEO.AllPage"/>
      <package name = ""/>
      <package name=""/>
      <package name=""/>
      <package name=""/>
      <package name=""/>
-   </packages>
+   </packages> -->
   </test>
 </suite> <!-- Suite -->
